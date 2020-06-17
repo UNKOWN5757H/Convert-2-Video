@@ -3,38 +3,38 @@ class Translation(object):
 This is a Telegram File convert Bot!
 You can convert any Telegram Document, using this bot! With custom thumbnail
 
-source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
+Create Legend Person : <a href='https://t.me/NGYNY'>😎 N I K H I L 😎</a>
     
-    © Channel : @DX_BotZ 
-    © Group   : @InfotelGroup
-    © Spechide: @Spechide
+    SUPPORT Channel : <a href='https://t.me/ALL_MOVIES_LIABRARY'>ᏗᏝᏝ ᎷᎧᏉᎥᏋᏕ ᏝᎥᏰᏒᏗᏒᎩ</a>
+    
+    
     
     
     """
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
+    UPGRADE_TEXT = "Use @RENAME_NGY_BOT 🥰"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/fileConvertRobot"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/ALL_MOVIES_LIABRARY"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=RENAME_NGY_BOT-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "Join @Dx_botz...have a nyc day!"
+    CUSTOM_CAPTION_UL_FILE = "Join @ALL_MOVIES_LIABRARY...have a nyc day!"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
+Plan name: <a href='https://t.me/ALL_MOVIES_LIABRARY'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
+👉 <a href="https://t.me/ALL_MOVIES_LIABRARY">JOIN OUR CHANNEL</a>
 --------
 Send /me to know current plan details
 
-Support Group : @Infotelgroup"""
+Support Channel : @ALL_MOVIES_LIABRARY"""
 
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
